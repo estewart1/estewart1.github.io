@@ -28,6 +28,6 @@ td {
   text-align: center;
 }
 
-table, th, td {
+table {
   border: 1px solid black;
 }
