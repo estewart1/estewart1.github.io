@@ -25,7 +25,7 @@ th {
 td {
  color: grey;
   font-size: 16px;
-  tposition: absolute;
+  position: absolute;
   top: 8px;
   left: 16px;
   border: 1px solid black;
