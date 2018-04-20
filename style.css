@@ -32,4 +32,5 @@ td {
 table {
   margin: auto;
   border-style: double;
+  border-color: black;
 }
