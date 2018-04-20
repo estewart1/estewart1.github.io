@@ -20,13 +20,6 @@ h2 {
   text-align: center;
 }
 
-h3 {
-  color: red;
-  font-size: 26px;
-  font-weight: 700;
-  padding: 20px 10px;
-}
-
 th {
   color: grey;
   font-size: 22px;
@@ -36,4 +29,8 @@ th {
   text-align: center;
 }
 
-
+td {
+ color: black;
+  font-size: 16;
+  text-align: center;
+}
