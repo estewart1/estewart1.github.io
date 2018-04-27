@@ -1,7 +1,8 @@
-* {box-sizing: border-box;}
-ul {list-style-type: none;}
-body {font-family: Papyrus;}
-
+body {
+  background-color: LightGrey;
+  font-family: 'Papyrus';
+  font-weight: bold;
+}
 .month {
     padding: 70px 25px;
     width: 100%;
