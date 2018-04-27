@@ -35,13 +35,13 @@ body {
 
 .weekdays {
     margin: 0;
-    padding: 10px 0;
+    padding: 10px 10px;
     background-color: #ddd;
 }
 
 .weekdays li {
     display: inline-block;
-    width: 13.6%;
+    width: 15%;
     color: #666;
     text-align: center;
 }
