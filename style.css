@@ -4,7 +4,7 @@ body {
   font-weight: bold;
 }
 .month {
-    padding: 13px 4px;
+    padding: 7px 3px;
     width: 100%;
     background: #B80000;
     text-align: center;
@@ -47,7 +47,7 @@ body {
 }
 
 .days {
-    padding: 10px 10px;
+    padding: 10px 0px;
     background: #eee;
     margin: 0;
 }
@@ -63,7 +63,7 @@ body {
 }
 
 .days li .active {
-    padding: 5px;
+    padding: 10px;
     background: #B80000;
     color: white !important
 }
