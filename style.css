@@ -37,6 +37,7 @@ body {
     margin: 0;
     padding: 15px 0px;
     background-color: #ddd;
+    text-size: 30px;
 }
 
 .weekdays li {
