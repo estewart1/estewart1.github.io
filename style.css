@@ -1,12 +1,18 @@
 ul {list-style-type: none;}
-body {font-family: Verdana, sans-serif;}
+body {font-family: papyrus;}
 
 /* Month header */
 .month {
-    padding: 70px 25px;
-    width: 100%;
-    background: #1abc9c;
+    border: 1px dotted #B80000;
+    color: #B80000;
+    font-size: 25px;
+    line-height: 25px;
+    padding: 20px;
+    margin: 20px;
     text-align: center;
+ /*   padding: 70px 25px; */
+    width: 100%;
+/*    background: #1abc9c;*/
 }
 
 /* Month list */
