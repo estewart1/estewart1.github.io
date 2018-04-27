@@ -4,11 +4,11 @@ body {
   font-weight: bold;
 }
 .month {
-    padding: 35px 13px;
-    width: 50%;
+    padding: 15px 5px;
+    width: 100%;
     background: #B80000;
     text-align: center;
-    font-size: 75px;
+    font-size: 45px;
 }
 
 .month ul {
