@@ -13,11 +13,6 @@ body {
     margin: auto;
 }
 
-.month ul {
-    margin: auto;
-    padding: 0;
-}
-
 .month ul li {
     color: white;
     text-color: white;
