@@ -34,7 +34,7 @@
     padding-top: 10px;
 }* /
 
-.weekdays {
+*/.weekdays {
     margin: 0;
     padding: 15px 0px;
     background-color: #ddd;
@@ -48,7 +48,7 @@
     text-align: center;
     text-size: 60px;
 }
-*/
+
 .days {
     padding: 10px 0px;
     background: #eee;
