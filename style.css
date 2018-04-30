@@ -1,4 +1,4 @@
-/*body {
+body {
   background-color: LightGrey;
   font-family: 'Papyrus';
   font-weight: bold;
@@ -71,7 +71,7 @@
     color: white !important
 }
 
-/* Add media queries for smaller screens * /
+/* Add media queries for smaller screens */
 @media screen and (max-width:720px) {
     .weekdays li, .days li {width: 13.1%;}
 }
@@ -84,8 +84,8 @@
 @media screen and (max-width: 290px) {
     .weekdays li, .days li {width: 12.2%;}
 }
-*/
-body {
+
+/*body {
   background-color: LightGrey;
   font-family: 'Papyrus';
   font-weight: bold;
@@ -109,7 +109,6 @@ th {
   width: 13.6%;
   padding: 10px;
   text-align: center;
-  display: inline-block;
 }
 
 td {
@@ -123,4 +122,4 @@ table {
   margin: auto;
   border: 1px solid black;
 }
-
+*/
