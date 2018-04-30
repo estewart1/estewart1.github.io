@@ -6,9 +6,8 @@ body {
 .month {
     padding: 20px;
     width: 100%;
-    /*background: #B80000;*/
+    background: #B80000;
     text-align: center;
-    color: #B80000;
     font-size: 25px;
     line-height: 25px;
     margin: 20px;
