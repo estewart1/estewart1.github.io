@@ -1,4 +1,4 @@
-body {
+/*body {
   background-color: LightGrey;
   font-family: 'Papyrus';
   font-weight: bold;
@@ -32,7 +32,7 @@ body {
 .month .next {
     float: right;
     padding-top: 10px;
-}*/
+}* /
 
 .weekdays {
     margin: 0;
@@ -71,7 +71,7 @@ body {
     color: white !important
 }
 
-/* Add media queries for smaller screens */
+/* Add media queries for smaller screens * /
 @media screen and (max-width:720px) {
     .weekdays li, .days li {width: 13.1%;}
 }
@@ -84,8 +84,8 @@ body {
 @media screen and (max-width: 290px) {
     .weekdays li, .days li {width: 12.2%;}
 }
-
-/*body {
+*/
+body {
   background-color: LightGrey;
   font-family: 'Papyrus';
   font-weight: bold;
@@ -121,4 +121,4 @@ table {
   margin: auto;
   border: 1px solid black;
 }
-*/
+
