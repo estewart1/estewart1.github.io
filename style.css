@@ -10,11 +10,11 @@ body {
     text-align: center;
     font-size: 25px;
     line-height: 25px;
-    margin: 20px;
+    margin: auto;
 }
 
 .month ul {
-    margin: 0;
+    margin: auto;
     padding: 0;
 }
 
@@ -37,7 +37,7 @@ body {
 }* /
 
 */.weekdays {
-    margin: 0;
+    margin: auto;
     padding: 15px 0px;
     background-color: #ddd;
     text-size: 60px;
@@ -54,7 +54,7 @@ body {
 .days {
     padding: 10px 0px;
     background: #eee;
-    margin: 0;
+    margin: auto;
 }
 
 .days li {
