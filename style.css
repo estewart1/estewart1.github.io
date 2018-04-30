@@ -67,6 +67,11 @@ body {
     color: #777;
 }
 
+.event {
+    color:#B80000;
+    font-size: 20px;
+}
+
 /* Add media queries for smaller screens */
 @media screen and (max-width:720px) {
     .weekdays li, .days li {width: 13.1%;}
@@ -80,42 +85,3 @@ body {
 @media screen and (max-width: 290px) {
     .weekdays li, .days li {width: 12.2%;}
 }
-
-/*body {
-  background-color: LightGrey;
-  font-family: 'Papyrus';
-  font-weight: bold;
-}
-
-h2 {
-  border: 1px dotted #B80000;
-  color: #B80000;
-  font-size: 25px;
-  line-height: 25px;
-  padding: 20px;
-  margin: 20px;
-  text-align: center;
-}
-
-th {
-  color: black;
-  font-size: 50px;
-  line-height: 1px;
-  margin: auto;
-  width: 13.6%;
-  padding: 10px;
-  text-align: center;
-}
-
-td {
-  color: #696969;
-  font-size: 16px;
-  margin: auto;
-  border: 1px solid black;
-}
-
-table {
-  margin: auto;
-  border: 1px solid black;
-}
-*/
