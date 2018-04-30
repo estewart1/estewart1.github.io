@@ -13,14 +13,6 @@ body {
     margin: auto;
 }
 
-/*.month ul li {
-    color: white;
-    text-color: white;
-    font-size: 30px;
-    text-transform: uppercase;
-    letter-spacing: 3px;
-}*/
-
 .month .prev {
     float: left;
     padding-top: 30px;
