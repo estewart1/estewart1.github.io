@@ -60,10 +60,9 @@ body {
 .days li {
     list-style-type: none;
     display: inline-block;
-    width: 13.6%;
+    width: /*13.6%*/30%;
     text-align: center;
-    /*margin-bottom: 10px;*/
-    margin: auto;
+    margin-bottom: 10px;
     font-size: 30px;
     color: #777;
 }
