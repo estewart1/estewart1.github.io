@@ -4,9 +4,10 @@ body {
   font-weight: bold;
 }
 .month {
+    border: 1px dotted #B80000;  
     padding: 20px;
     width: 100%;
-    background: #B80000;
+    color: #B80000;
     text-align: center;
     font-size: 25px;
     line-height: 25px;
