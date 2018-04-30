@@ -28,13 +28,13 @@ body {
 
 .month .prev {
     float: left;
-    padding-top: 15px;
+    padding-top: 20px;
     color: #B80000;
 }
 
 .month .next {
     float: right;
-    padding-top: 15px;
+    padding-top: 20px;
     color: #B80000;
 }
 
