@@ -62,14 +62,8 @@ body {
     width: 13.6%;
     text-align: center;
     margin-bottom: 10px;
-    font-size: 30px;
+    font-size: 20px;
     color: #777;
-}
-
-.days li .active {
-    padding: 10px;
-    background: #B80000;
-    color: white !important
 }
 
 /* Add media queries for smaller screens */
