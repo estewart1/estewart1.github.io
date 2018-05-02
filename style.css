@@ -10,12 +10,13 @@ body {
     text-align: center;
     font-size: 25px;
     line-height: 25px;
-    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 .month .prev {
     float: left;
-    padding-top: 20px;
+    padding-top: 10px;
     color: #B80000;
 }
 
