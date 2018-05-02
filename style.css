@@ -62,7 +62,7 @@ body {
 .event {
     color:#B80000;
     font-size: 15px;
-    text-align : left;
+    text-align : center;
     width: 12%;
     height: 80px;
     position: fixed;
