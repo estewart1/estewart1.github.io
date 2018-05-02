@@ -69,7 +69,7 @@ body {
     text-align: left;
     width: 12%;
     height: 80px;
-    position: fixed;
+    /*position: fixed;*/
 }
 
 @media screen and (max-width:720px) {
