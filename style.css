@@ -51,7 +51,7 @@ body {
     width: 13.6%;
     height: 80px;
     text-align: left;
-    margin-left; 20px;
+    margin-left; 80px;
     margin-right: 0px;
     margin-bottom: 10px;
     font-size: 20px;
@@ -68,9 +68,6 @@ body {
     width: 12%;
     height: 80px;
     position: fixed;
-    margin-left; 20px;
-    margin-right: 0px;
-    margin-bottom: 10px;
 }
 
 @media screen and (max-width:720px) {
