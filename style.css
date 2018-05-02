@@ -61,10 +61,11 @@ body {
 .event {
     color:#B80000;
     font-size: 15px;
-    text-align : left up;
+    text-align : left;
     width: 12%;
     height: 80px;
     position: fixed;
+    padding-top: 0px;
 }
 
 @media screen and (max-width:720px) {
