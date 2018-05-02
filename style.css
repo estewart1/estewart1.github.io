@@ -55,6 +55,7 @@ body {
     font-size: 20px;
     color: #777;
     border-style: solid;
+    align-content: center;
 }
 
 .event {
