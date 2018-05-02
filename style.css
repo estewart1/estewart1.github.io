@@ -43,7 +43,6 @@ body {
     padding: 10px 0px;
     background: #eee;
     margin: auto;
-    position: fixed;
 }
 
 .days li {
@@ -60,6 +59,7 @@ body {
 .event {
     color:#B80000;
     font-size: 15px;
+    position: fixed;
 }
 
 @media screen and (max-width:720px) {
