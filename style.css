@@ -55,14 +55,14 @@ body {
     font-size: 20px;
     color: #777;
     border-style: solid;
-    /*padding-left: 3px;*/
+    padding-left: 1px;
     align-content: center;
 }
 
 .event {
     color:#B80000;
     font-size: 15px;
-    text-align : center;
+    text-align: left;
     width: 12%;
     height: 80px;
     position: fixed;
