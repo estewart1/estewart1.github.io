@@ -65,14 +65,12 @@ body {
 .pastevent {
    color:#B80000;
    font-size: 15px;
-   width: 12px;
-   height: 80px;
 }  
 
 .event {
     color:#B80000;
     font-size: 15px;
-    width: 12px;
+    width: 13.6%;
     height: 80px;
 }
 
