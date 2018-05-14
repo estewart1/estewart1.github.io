@@ -64,6 +64,8 @@ body {
 
 .pastevent {
    color:#B80000;
+   font-size: 15px;
+   width: 12%;
 }  
 
 .event {
