@@ -66,13 +66,12 @@ body {
     color:#B80000;  
     font-size: 15px;
     width: 12%;
-    height: 80px;
 }  
 .event {
     color:#B80000;
     font-size: 15px;
     width: 12%;
-    height: 80px;
+    align: left;
     position: fixed;
 }
 
