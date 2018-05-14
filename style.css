@@ -70,8 +70,6 @@ body {
 .event {
     color:#B80000;
     font-size: 15px;
-    width: 13.6%;
-    height: 80px;
 }
 
 @media screen and (max-width:720px) {
