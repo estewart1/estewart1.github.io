@@ -66,13 +66,14 @@ body {
    color:#B80000;
    font-size: 15px;
    width: 12%;
-   align: left;
+   height: 80px;
 }  
 
 .event {
     color:#B80000;
     font-size: 15px;
-    align: center;
+    width: 12%;
+    height: 80px;
 }
 
 @media screen and (max-width:720px) {
