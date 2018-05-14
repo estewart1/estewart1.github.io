@@ -74,7 +74,6 @@ body {
     font-size: 15px;
     width: 12%;
     align: left;
-    position: fixed;
 }
 
 @media screen and (max-width:720px) {
