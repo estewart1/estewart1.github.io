@@ -67,7 +67,7 @@ body {
     font-size: 15px;
     width: 12%;
     height: 80px;
-    position: fixed;
+    text-align: left;
 }  
 .event {
     color:#B80000;
